@@ -9,6 +9,9 @@ Week Readings:
   -	Surrogate Model-Based Engineering Design and Optimization: Chapter 2.1
   - Code : GitHub - KaliIngeniero/SuroModel: Engineering Design via Surrogate Modelling: A Practical Guide
 
+Week Notes:
+  - Elementary Effects (1.3.1): https://risk-engineering.org/notebook/elementary-effects.html
+
 Week Readings:
   -	Engineering Design via Surrogate Modelling: Chapter 2
   -	Surrogate Model-Based Engineering Design and Optimization: Chapter 2
